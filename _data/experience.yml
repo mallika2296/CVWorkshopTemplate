@@ -1,12 +1,19 @@
 main:
 
   - type: education
+    degreepath: PhD in Media Studies # for type.education.
+    institution: Indiana University
+    advisors: Rachel Plotnick # for type.education.
+    thesis: "Interrogating Digitized Racial Trauma and Healing" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2021 - Present
+    notes: In Progress
+
+  - type: education
     degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    institution: Indiana University
+    advisors: Rachel Plotnick # for type.education.
+    thesis: "Interrogating Digitized Racial Trauma and Healing" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2021 - Present
     notes: In Progress
     
   - type: job
