@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Mallika is a PhD candidate at the Media School at Indiana University Bloomington
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Media Studies:** Virality, Memes, Yay 
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/employment.md %}
