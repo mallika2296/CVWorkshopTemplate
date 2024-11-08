@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Mallika is a PhD candidate at the Media School at Indiana University Bloomington
+Mallika is a PhD candidate at the Media School at Indiana University Bloomington.
 
 ## Research Interests
 
